@@ -21,3 +21,8 @@ This Wolfram Mathematica notebook allows to work in user interface.
 - Baseline correction with iModPoly method.
 - Original Raman spectrum decomposition algorithm.
 - Automatic construction of all necessary graphs for articles and the ability to save them in various formats.
+
+![1](https://github.com/DarkMatro/Raman-tool-Wolfram-Mathematica/assets/113565324/e8635ce6-5896-4edc-a3c3-a46a48560714)
+![2](https://github.com/DarkMatro/Raman-tool-Wolfram-Mathematica/assets/113565324/37009545-84a1-43ef-a736-e27ac1d7a019)
+![3](https://github.com/DarkMatro/Raman-tool-Wolfram-Mathematica/assets/113565324/3c67433c-c5e6-40fc-9e8f-c4e24dc0654c)
+![4](https://github.com/DarkMatro/Raman-tool-Wolfram-Mathematica/assets/113565324/2b93c0bc-9ce6-4a8f-a604-e3853b3bb963)
